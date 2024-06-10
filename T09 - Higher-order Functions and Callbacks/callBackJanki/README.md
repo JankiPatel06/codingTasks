@@ -39,7 +39,7 @@ cd callBackJanki
 3. **Open the project**:
 Open ‘callBackJanki.html’ file in your web browser to see the practical task in action. 
 ## Usage:
-**Open the index.html file**:
+**Open the callBackJanki.html file**:
 callBackJanki.html 
 
 **Interacting with the Task**:
