@@ -33,7 +33,7 @@ This practical task involves developing a comprehensive understanding of both th
 ### Steps
 
 1. **Clone the repository**:
-git clone https://github.com/JankiPatel06/repo.git
+git clone https://github.com/JankiPatel06/codingTasks.git
 2. ** Navigate to the project directory**:
 cd callBackJanki
 3. **Open the project: **
