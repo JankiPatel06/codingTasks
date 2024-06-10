@@ -56,7 +56,7 @@ npm start
  
 Access the application: Open your browser and navigate to “http://localhost:3000”
 ## **Credits**: 
-This project was developed by Janki Patel (https://github.com/JankiPatel06 ). For any inquires, please contact me at jankipatelit2014@gmail.com
+This project was developed by Janki Patel (https://github.com/JankiPatel06 ). For any inquiries, please contact me at jankipatelit2014@gmail.com
 
 ## License
 This project is licensed under the MIT License - see the LICENSE file for details.
