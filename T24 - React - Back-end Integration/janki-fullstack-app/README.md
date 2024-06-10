@@ -34,7 +34,7 @@ Creating a full-stack web application that displays a custom message from both t
 ### Steps
 
 1. **Clone the repository**:
-   git clone https://github.com/JankiPatel06/repo.git
+   git clone https://github.com/JankiPatel06/codingTasks.git
 2. **Install dependencies for the backend**:
 
 cd backend
