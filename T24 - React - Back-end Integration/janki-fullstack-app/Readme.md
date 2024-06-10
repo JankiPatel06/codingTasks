@@ -38,32 +38,28 @@ Creating a full-stack web application that displays a custom message from both t
    git clone https://github.com/username/repo.git
    git clone https://github.com/username/repo.git
 
-Install dependencies for the backend:
+2. **Install dependencies for the backend**:
 
 cd backend
 npm install
 
-Install dependencies for the frontend:
+3. **Install dependencies for the frontend**:
 
 cd ../frontend
 npm install
-Usage:
-Start the backend server
 
+## Usage:
+**Start the backend server**
 cd backend
 node server.js
 
-Start the frontend server
-
+**Start the frontend server**
 cd ../frontend
 npm start
-
-Screen after both server start:
-
  
 Access the application: Open your browser and navigate to “http://localhost:3000”
-**Credits**: This project was developed by Janki Patel (https://github.com/JankiPatel06 ). For any inquires, please contact me at jankipatelit2014@gmail.com
+## **Credits**: This project was developed by Janki Patel (https://github.com/JankiPatel06 ). For any inquires, please contact me at jankipatelit2014@gmail.com
 
-This project is licensed under the MIT License - see the LICENSE file for details.
+## This project is licensed under the MIT License - see the LICENSE file for details.
 
 
