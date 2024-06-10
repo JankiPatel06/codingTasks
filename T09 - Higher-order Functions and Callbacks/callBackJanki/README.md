@@ -34,9 +34,9 @@ This practical task involves developing a comprehensive understanding of both th
 
 1. **Clone the repository**:
 git clone https://github.com/JankiPatel06/codingTasks.git
-2. ** Navigate to the project directory**:
+2. **Navigate to the project directory**:
 cd callBackJanki
-3. **Open the project: **
+3. **Open the project**:
 Open ‘callBackJanki.html’ file in your web browser to see the practical task in action. 
 ## Usage:
 **Open the index.html file**:
