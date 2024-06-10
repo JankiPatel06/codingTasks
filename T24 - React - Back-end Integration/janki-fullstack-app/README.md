@@ -34,10 +34,7 @@ Creating a full-stack web application that displays a custom message from both t
 ### Steps
 
 1. **Clone the repository**:
-  
-   git clone https://github.com/username/repo.git
-   git clone https://github.com/username/repo.git
-
+   git clone https://github.com/JankiPatel06/repo.git
 2. **Install dependencies for the backend**:
 
 cd backend
@@ -58,8 +55,10 @@ cd ../frontend
 npm start
  
 Access the application: Open your browser and navigate to “http://localhost:3000”
-## **Credits**: This project was developed by Janki Patel (https://github.com/JankiPatel06 ). For any inquires, please contact me at jankipatelit2014@gmail.com
+## **Credits**: 
+This project was developed by Janki Patel (https://github.com/JankiPatel06 ). For any inquires, please contact me at jankipatelit2014@gmail.com
 
-## This project is licensed under the MIT License - see the LICENSE file for details.
+## License
+This project is licensed under the MIT License - see the LICENSE file for details.
 
 
